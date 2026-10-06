@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="510" viewBox="0 0 800 510" role="img" aria-labelledby="title description">
+<title id="title">Davi Bernardes — systems builder and co-founder of L2 Systems</title>
+<desc id="description">A personal field-notes cover, with diagrams connecting AI operations, distributed data and computational design.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#2B3D4C" stroke-width="0.5" opacity="0.4"/></pattern></defs>
+<rect width="800" height="510" rx="18" fill="#101A23"/>
+<rect x="1" y="1" width="798" height="508" rx="17" fill="none" stroke="#2B3D4C"/>
+
+<rect x="476" y="1" width="323" height="508" rx="17" fill="url(#grid)"/>
+<circle cx="704" cy="226" r="124" fill="none" stroke="#2B3D4C" stroke-width="1"/>
+<circle cx="704" cy="226" r="81" fill="none" stroke="#2B3D4C" stroke-width="1"/>
+<path d="M 616 138 L 728 200 L 668 292 Z" fill="none" stroke="#A8C1FA" stroke-width="2"/>
+<circle cx="616" cy="138" r="7" fill="#A8C1FA"/><circle cx="728" cy="200" r="7" fill="#A8C1FA"/><circle cx="668" cy="292" r="7" fill="#A8C1FA"/>
+<path d="M 40 46 H 72" stroke="#A8C1FA" stroke-width="3"/>
+<text x="90" y="55" fill="#ADC0CF" font-family="Consolas,monospace" font-size="24" letter-spacing="2">SOFTWARE / SYSTEMS</text>
+<text x="40" y="203" fill="#F2EFE7" font-family="Georgia,serif" font-size="118" letter-spacing="-5">Davi</text>
+<text x="40" y="322" fill="#F2EFE7" font-family="Georgia,serif" font-size="118" letter-spacing="-5">Bernardes</text>
+<path d="M 40 371 H 758" stroke="#2B3D4C"/>
+<text x="40" y="419" fill="#F2EFE7" font-family="Consolas,monospace" font-size="26">CO-FOUNDER / L2 SYSTEMS</text>
+<text x="40" y="466" fill="#ADC0CF" font-family="Consolas,monospace" font-size="26">UBERABA, BRAZIL</text>
+</svg>

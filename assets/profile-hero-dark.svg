@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title description">
+<title id="title">Davi Bernardes — systems builder and co-founder of L2 Systems</title>
+<desc id="description">A personal field-notes cover, with diagrams connecting AI operations, distributed data and computational design.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M 28 0 L 0 0 0 28" fill="none" stroke="#2B3D4C" stroke-width="0.5" opacity="0.4"/></pattern></defs>
+<rect width="1280" height="400" rx="18" fill="#101A23"/>
+<rect x="1" y="1" width="1278" height="398" rx="17" fill="none" stroke="#2B3D4C"/>
+
+<rect x="787" y="1" width="492" height="398" rx="17" fill="url(#grid)"/>
+<path d="M 58 52 H 91" stroke="#A8C1FA" stroke-width="3"/>
+<text x="108" y="58" fill="#ADC0CF" font-family="Consolas,monospace" font-size="16" letter-spacing="2">SOFTWARE / SYSTEMS / APPLIED AI</text>
+<text x="54" y="167" fill="#F2EFE7" font-family="Georgia,serif" font-size="94" letter-spacing="-3">Davi</text>
+<text x="54" y="269" fill="#F2EFE7" font-family="Georgia,serif" font-size="94" letter-spacing="-3">Bernardes</text>
+<text x="58" y="333" fill="#F2EFE7" font-family="Consolas,monospace" font-size="17">CO-FOUNDER / L2 SYSTEMS</text>
+<text x="58" y="368" fill="#ADC0CF" font-family="Consolas,monospace" font-size="16">UBERABA, BRAZIL</text>
+<path d="M 751 40 V 360" stroke="#2B3D4C"/>
+<text x="825" y="52" fill="#ADC0CF" font-family="Consolas,monospace" font-size="13" letter-spacing="2">THREE LINES OF INQUIRY</text>
+<path d="M 835 116 V 287" stroke="#A8C1FA" stroke-width="2"/>
+<rect x="813" y="90" width="416" height="70" rx="9" fill="#101A23" stroke="#2B3D4C"/>
+<circle cx="835" cy="116" r="4" fill="#A8C1FA"/>
+<text x="853" y="121" fill="#A8C1FA" font-family="Consolas,monospace" font-size="14">01</text>
+<text x="887" y="121" fill="#F2EFE7" font-family="Georgia,serif" font-size="25">AI operations</text>
+<text x="887" y="145" fill="#ADC0CF" font-family="Consolas,monospace" font-size="13">Tasks / context / review</text>
+<rect x="813" y="181" width="416" height="70" rx="9" fill="#101A23" stroke="#2B3D4C"/>
+<circle cx="835" cy="207" r="4" fill="#A8C1FA"/>
+<text x="853" y="212" fill="#A8C1FA" font-family="Consolas,monospace" font-size="14">02</text>
+<text x="887" y="212" fill="#F2EFE7" font-family="Georgia,serif" font-size="25">Distributed data</text>
+<text x="887" y="236" fill="#ADC0CF" font-family="Consolas,monospace" font-size="13">Peers / freshness / fallback</text>
+<rect x="813" y="272" width="416" height="70" rx="9" fill="#101A23" stroke="#2B3D4C"/>
+<circle cx="835" cy="298" r="4" fill="#A8C1FA"/>
+<text x="853" y="303" fill="#A8C1FA" font-family="Consolas,monospace" font-size="14">03</text>
+<text x="887" y="303" fill="#F2EFE7" font-family="Georgia,serif" font-size="25">Computational design</text>
+<text x="887" y="327" fill="#ADC0CF" font-family="Consolas,monospace" font-size="13">Generate / evaluate / check</text>
+</svg>
